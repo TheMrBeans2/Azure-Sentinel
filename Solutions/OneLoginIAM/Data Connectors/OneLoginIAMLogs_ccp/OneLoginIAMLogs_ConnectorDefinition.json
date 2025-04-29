@@ -127,7 +127,7 @@
                         "parameters": {
                           "label": "Client Secret",
                           "placeholder": "Enter your Client Secret",
-                          "type": "text",
+                          "type": "password",
                           "name": "clientSecret",
                           "required": true
                         }
